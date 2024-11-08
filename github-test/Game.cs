@@ -21,7 +21,7 @@ namespace Game10003
             Window.SetTitle("Texture test");
             Window.SetSize(800, 600);
 
-            t = Graphics.LoadTexture("C:\\Assets\\house.png");
+            t = Graphics.LoadTexture("C:\\Users\\Mohawk\\Documents\\my-cool-game\\github-test\\Assets\\house.png");
         }
 
         /// <summary>
